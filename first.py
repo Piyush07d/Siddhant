@@ -1,0 +1,3 @@
+a = "Siddhant"
+
+print(a)
