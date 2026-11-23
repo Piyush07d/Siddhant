@@ -1,3 +1,0 @@
-a = "Siddhant"
-
-print(a)
